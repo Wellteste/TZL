@@ -5,3 +5,5 @@ O segundo aprendizado para fica melhor.
 Um aprendizado de cada vez
 Efetuei una altecao apos ir a uma versao anterior do repo.
 >>>>>>> segundario
+Atualização
+Index
